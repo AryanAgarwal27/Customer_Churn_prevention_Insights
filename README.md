@@ -95,7 +95,11 @@ The dataset contains various features that help predict customer churn. Below is
 
 An interactive **Power BI** dashboard is created to visualize the customer churn analysis. This dashboard allows users to explore the data and observe trends related to customer churn, helping businesses make data-driven decisions.
 
-[View the interactive dashboard here](Churn_Dashboard.pdf).
+![Customer Churn Dashboard](Customer_churn_Dashboard.png)
+![Customer Risk Analysis](Customer_Risk_Analysis.png)
+
+
+
 
 ---
 
