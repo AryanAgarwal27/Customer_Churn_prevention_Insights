@@ -2,11 +2,11 @@
 
 ## Customer Churn Prediction
 
-In this project, we aim to build a classification model to predict the likelihood of customer churn for a telecom company (Vodafone). Using Supervised Machine Learning, we will explore how churn analytics can help businesses proactively identify customers at risk of leaving, optimize retention efforts, and create strategies to enhance customer loyalty.
+In this project, we aim to build a classification model to predict the likelihood of customer churn for a telecom company . Using Supervised Machine Learning, we will explore how churn analytics can help businesses proactively identify customers at risk of leaving, optimize retention efforts, and create strategies to enhance customer loyalty.
 
 ### Project Overview
 
-Customer churn is a significant issue for subscription-based industries, and this predictive model provides a data-driven solution to address it. By identifying customers who are likely to churn, businesses can take steps to retain them before it's too late. The project follows the **CRISP-DM** (Cross-Industry Standard Process for Data Mining) framework to analyze customer churn within the Vodafone network.
+Customer churn is a significant issue for subscription-based industries, and this predictive model provides a data-driven solution to address it. By identifying customers who are likely to churn, businesses can take steps to retain them before it's too late. The project follows the **CRISP-DM** (Cross-Industry Standard Process for Data Mining) framework to analyze customer churn within the network.
 
 ### Table of Contents 🔖
 - [Project Overview](#project-overview)
